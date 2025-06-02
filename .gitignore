@@ -1,0 +1,6 @@
+__pychace__/
+*.h5
+*.png
+*.jpg
+*.jpeg
+.DS_Store
